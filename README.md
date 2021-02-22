@@ -1,2 +1,2 @@
 # Image-to-image-translation-a-literature-review
-Documents for ETH Geomatics Seminar
+Documents for ETH Geomatics Seminar HS20
